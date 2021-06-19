@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amal Kannan
-- 👀 I’m interested in IT industry
+- 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me amalkannan002@gmail.com
