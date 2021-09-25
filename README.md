@@ -1,4 +1,4 @@
-   # HAI 👋 I’m Amal Kannan 
+   # Hai 👋 I’m Amal Kannan 
   # A passionate Data Analyst from Ernakulam, Kerala, India
 
 - 👀  I’m interested in Data Analyst
