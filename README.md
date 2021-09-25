@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Amal Kannan
-- 👀 I’m interested in IT Industry
+   # HAI 👋 I’m Amal Kannan 
+  # A passionate Data Analyst from Ernakulam, Kerala, India
+
+- 👀  I’m interested in Data Analyst
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data science project
+- 💞️ I’m looking to collaborate on data analyst project
 - 📫 How to reach me amalkannan002@gmail.com
 
 <!---
